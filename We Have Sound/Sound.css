@@ -1,0 +1,12 @@
+body 
+{
+    background-color: lawngreen;
+}
+
+.container 
+{
+    width: 800px;
+    margin: 30px auto;
+    color: black;
+    text-align: center;
+ }
